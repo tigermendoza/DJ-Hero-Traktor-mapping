@@ -3,7 +3,7 @@ A method for mapping a Xbox 360 DJ Hero controller for use as a Traktor compatib
 
 Check out the [Wiki](https://github.com/tigermendoza/DJ-Hero-Traktor-mapping/wiki) for more info.
 
-Full demo video coming soon. In the meantime check out these videos from [Instagram](https://www.instagram.com/tigermendoza)
+[Here's a rough demo video](https://www.youtube.com/watch?v=bwMJmQDGauA) and a few samples from [Instagram](https://www.instagram.com/tigermendoza)
 
 * https://www.instagram.com/p/BggPhmsD-mv/
 * https://www.instagram.com/p/BggP6rUDgR8/
